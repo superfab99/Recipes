@@ -1,5 +1,5 @@
-# RecipeApp
-RecipeApp designed to find new recipes everyday. Found recepie that intrests you ? mark them as favourite.
+# Recipe 
+Recipe app designed to find new recipes everyday. Found recepie that intrests you ? mark them as favourite.
 created using spoonacular.com which provides api for recipes.
 
 
